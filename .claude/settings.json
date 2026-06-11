@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(cd \"c:/Users/Admin/Day-11-Guardrails-HITL-Responsible-AI\" && rm -f notebooks/_dump.txt && echo cleaned)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Admin\\Day-11-Guardrails-HITL-Responsible-AI\\notebooks"
+    ]
+  }
+}
